@@ -1,7 +1,14 @@
 rst name .
 helle world
+<<<<<<< HEAD
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
 
 fail why
 git nihao:
+=======
+
+github good
+
+like is git youyou
+>>>>>>> b8d8f0900600b341af4655517b1c141a2396b6cf
